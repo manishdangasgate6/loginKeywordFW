@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Gate6-70" name="operation.ExecuteNewTest" tests="1" failures="0" timestamp="4 Jan 2018 10:52:08 GMT" time="21.298" errors="0">
+  <testcase name="testLogin" time="21.282" classname="operation.ExecuteNewTest"/>
+</testsuite>
