@@ -20,7 +20,7 @@ import login.login.ReadExcelFile;
  */
 public class ExecuteNewTest {
 
-	public String st = System.setProperty("webdriver.chrome.driver", "chromedriver");
+	public String st = System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 	public WebDriver driver = new ChromeDriver();
 
 	@Test
